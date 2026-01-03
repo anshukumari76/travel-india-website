@@ -17,6 +17,16 @@ This project is designed to provide users with an overview of India’s cultural
 - Showcases multiple Indian travel destinations
 - Simple navigation and structured layout
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](screenshots/Home.png)
+
+### 🗺️ Destinations Section
+![Destinations](screenshots/Destinations.png)
+
+### 🖼️ Sign-Up Section
+![Gallery](screenshots/Signup.png)
 ## 🎯 Purpose of the Project
 - Practice frontend web development concepts
 - Improve HTML, CSS, and JavaScript skills
